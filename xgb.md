@@ -24,3 +24,5 @@ ACSPublicCoverage_WA
 <img src="xgb/ACSPublicCoverage_WA_accuracy.png" alt="" width="400">
 <img src="xgb/ACSPublicCoverage_WA_f1.png" alt="" width="400">
 </div>
+
+### 初步结论：Accuracy平均表现上的gap几乎消失，worst group表现和f1_score上还存在优势
