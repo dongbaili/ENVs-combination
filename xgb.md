@@ -3,6 +3,8 @@
 3 * 800 vs 49 * 50
 由于表现不稳定，进行20次重复实验取平均
 
+XGBoost model
+
 ---
 ACSIncome_OH
 <div style="display: flex;">
